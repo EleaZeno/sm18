@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: d:\sm18\sm18\systems\רҵ
+   Date: Friday, February 23, 2024, 5:09:59 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 5:09:59 PM in 00:00:00 sec (Friday, February 23, 2024)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________
