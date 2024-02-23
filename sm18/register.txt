@@ -1,0 +1,76 @@
+
+To unlock SuperMemo you need to input the unlock password.
+You can input the password with File : Installation : Input password.
+If you have just ordered SuperMemo, the password will be sent to you within a business day (no action needed).
+
+If you are using a trial copy of SuperMemo, you can get more information by sending this file to:
+
+    help2024@supermemo.org
+
+****************************************
+REGISTRATION DATA
+Name=zenolee
+Country=china
+Phone=good
+Credit=0.030%
+Date=Friday, February 23, 2024, 5:25:57 AM
+Version=SuperMemo 18 (Build 18.05, Oct 29, 2020)
+Reseller= SuperMemo World
+****************************************
+OPTIONAL DATA
+All data listed below is optional and will be used for research only
+You can delete sections which you consider private!
+
+COLLECTION STATISTICS
+Collection       d:\study\sm18\ีÜัง
+Date             2/23/2024 (Fri)
+First day        2/23/2024
+Period           1 day
+Memorized        0 el. (0%)
+Memorized items  0 it.
+Memorized topics 0 top.
+Memorized/Day    0.0000 it/day
+Total            1 el.
+Items            0 it.
+Topics           1 top.
+Outstanding      0+0 el.
+Review           -
+Protection       N/A
+Retention        100.0000%
+Measured FI      0.00% 
+R-Metric         -
+Alarm            -
+Burden           0+0
+Burden +/-       No change
+Avg Workload     0 sec.
+Exp Workload     0 sec.
+Time             0 sec. (2m 19sec)
+Avg time         5.000 sec.
+Total time       N/A
+Lapses           N/A
+Speed            N/A
+Avg Cost         N/A
+Exp Cost         N/A
+Interval (I)     0 sec.
+Interval (T)     0 sec.
+Repetitions      I=0.000 T=0.000
+Rep count        0
+Last Rep (I)     N/A
+Last Rep (T)     N/A
+Next Rep (I)     N/A
+Next Rep (T)     N/A
+Pending          0 el.
+Dismissed        1 el.
+Average FI       0.00% (10%)
+Completion       today
+A-Factor         N/A
+Text Registry    1 entries
+Lexicon          0 words
+FI Cases         0
+****************************************
+CONTENTS
+ีÜัง
+****************************************
+TEXT REGISTRY (Size=1)
+1. ีÜัง (Pos=1)
+****************************************
